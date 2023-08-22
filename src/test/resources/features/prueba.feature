@@ -2,10 +2,10 @@
 
 # language: en
 
-Feature: : As a user I want to learn how to automate in screenplay
+Feature: : As a user I want to sign in into a page
 
   @InicioSesionExitoso
-  Scenario: : Search for a course
-    Given than Mayi wants to lear automation
-    When she search for the course
-    Then she find a course
+  Scenario: : Search for the page
+    Given than Mayi wants to enter in a page
+    When she write her credentials
+    Then she is sign in

@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name=": As a user I want to learn how to automate in screenplay" skipped="1" tests="1" time="0.26" timestamp="2023-08-19 09:37:33"><testcase name=": Search for a course"><skipped/></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": As a user I want to learn how to automate in screenplay" skipped="0" tests="1" time="2.97" timestamp="2023-08-20 11:17:14"><testcase name=": Search for a course"><error message="Unable to establish websocket connection to http://localhost:61389/devtools/browser/05d1dc37-1372-4a1a-8cbd-9baa244ee6f0&#10;Build info: version: '4.3.0', revision: 'a4995e2c09*'&#10;System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'&#10;Driver info: driver.version: ChromeDriver&#10;Build info: version: '4.3.0', revision: 'a4995e2c09*'&#10;System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.remote.http.ConnectionFailedException">Unable to establish websocket connection to http://localhost:61389/devtools/browser/05d1dc37-1372-4a1a-8cbd-9baa244ee6f0
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown</error><system-err>Unable to establish websocket connection to http://localhost:61389/devtools/browser/05d1dc37-1372-4a1a-8cbd-9baa244ee6f0
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certificado.proyectobase.stepdefinitions.LoginStepDefinitions.thanMayiWantsToEnterInAPage(LoginStepDefinitions.java:30)&#13;
+✽.than Mayi wants to enter in a page(file:///C:/Users/dakik/IdeaProjects/proyectoqa/src/test/resources/features/prueba.feature:9)&#13;
+</system-err></testcase></testsuite>

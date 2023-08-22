@@ -45,6 +45,7 @@ dependencies {
     implementation "net.serenity-bdd:serenity-junit5:${serenityCoreVersion}"
     implementation "net.serenity-bdd:serenity-cucumber:${serenityCoreVersion}"
     implementation "net.serenity-bdd:serenity-rest-assured:${serenityCoreVersion}"
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.3.0'
 
     implementation "net.serenity-bdd:serenity-ensure:${serenityCoreVersion}"
     implementation "net.serenity-bdd:serenity-screenplay:${serenityCoreVersion}"

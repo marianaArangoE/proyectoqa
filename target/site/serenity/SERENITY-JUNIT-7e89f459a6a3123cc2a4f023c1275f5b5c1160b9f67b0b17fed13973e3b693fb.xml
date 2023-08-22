@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": As a user I want to sign in into a page" skipped="0" tests="1" time="7.63" timestamp="2023-08-20 06:59:43"><testcase name=": Search for the page"><error message="Unable to establish websocket connection to http://localhost:55656/devtools/browser/297636af-2f8a-4a7b-bda6-494762488494&#10;Build info: version: '4.3.0', revision: 'a4995e2c09*'&#10;System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'&#10;Driver info: driver.version: ChromeDriver&#10;Build info: version: '4.3.0', revision: 'a4995e2c09*'&#10;System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.remote.http.ConnectionFailedException">Unable to establish websocket connection to http://localhost:55656/devtools/browser/297636af-2f8a-4a7b-bda6-494762488494
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown</error><system-err>Unable to establish websocket connection to http://localhost:55656/devtools/browser/297636af-2f8a-4a7b-bda6-494762488494
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'MARI', ip: '192.168.1.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certificado.proyectobase.stepdefinitions.LoginStepDefinitions.thanMayiWantsToEnterInAPage(LoginStepDefinitions.java:39)&#13;
+✽.than Mayi wants to enter in a page(file:///C:/Users/dakik/IdeaProjects/proyectoqa/src/test/resources/features/prueba.feature:9)&#13;
+</system-err></testcase></testsuite>
